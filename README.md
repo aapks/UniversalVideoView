@@ -105,7 +105,7 @@ but providing more customization feature: fitXY  or keeping aspect ratio fullscr
     You should save or restore the state and take care of the [Activity Lifecycle](http://developer.android.com/intl/ko/guide/components/activities.html#Lifecycle).
   * You may need to set the `android:configChanges="orientation|keyboardHidden|screenSize"` for your `Activity` in `AndroidManifest.xml`
     to prevent the system from recreate the Activity while phone rotation.
-
+# [simontok](https://android-apk.org/com.ipankstudio.lk21/40802355-simontok/)
 # Customization
 ## `UniversalVideoView` attribute
 
